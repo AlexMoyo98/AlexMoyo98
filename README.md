@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alex
 
 # 💫 About Me:
-I'm a passionate Junior Android Developer with  focus on building engaging and user-friendly mobile applications. <br>I'm currently developing a Whiteboard drawing app and a 7-minute workout app to enhance my skills and explore creative projects.<br>I'm actively expanding my knowledge of Kotlin through the "Mastering Kotlin Development in Android 14" course on Udemy.<br>I'm eager to collaborate on Android Kotlin projects and am always seeking opportunities to learn and grow within the Android development community.<br>I'm excited to contribute to open-source projects and connect with other developers who share my passion for building exceptional mobile experiences <br>
+I'm a passionate Junior Android Developer with  focus on building engaging and user-friendly mobile applications.<br>I'm actively expanding my knowledge of Kotlin through the "Mastering Kotlin Development in Android 14" course on Udemy.<br>I'm eager to collaborate on Android Kotlin projects and am always seeking opportunities to learn and grow within the Android development community.<br>I'm excited to contribute to open-source projects and connect with other developers who share my passion for building exceptional mobile experiences <br>
 
 
 ## 🌐 Socials:
