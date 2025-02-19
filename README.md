@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Alex
 
 # 💫 About Me:
-I'm a passionate Junior Android Developer with  focus on building engaging and user-friendly mobile applications.<br>I'm actively expanding my knowledge of Kotlin through the "Mastering Kotlin Development in Android 14" course on Udemy.<br>I'm eager to collaborate on Android Kotlin projects and am always seeking opportunities to learn and grow within the Android development community.<br>I'm excited to contribute to open-source projects and connect with other developers who share my passion for building exceptional mobile experiences <br>
+I'm a passionate Junior Software Engineer focused on building engaging and user-friendly mobile applications using Flutter.<br>I'm leveraging my experience from mastering Kotlin development (through the 'Mastering Kotlin Development in Android 14' Udemy course) to learn Flutter and Dart.  I'm currently focused on the official Flutter documentation's 'Flutter for Android Developers' guide to effectively migrate my Android development skills.<br>I'm eager to collaborate on Flutter projects and am always seeking opportunities to learn and grow within the Flutter development community.<br>I'm excited to contribute to open-source projects and connect with other developers who share my passion for building exceptional mobile experiences. <br>
 
 
 ## 🌐 Socials:
